@@ -1,0 +1,12 @@
+.box-tareas{
+    display: flex;
+    justify-content: space-between;
+}
+
+.formulario-contact{
+    height: 48px;
+}
+
+.btn-agregar{
+    width: 100%;
+}
